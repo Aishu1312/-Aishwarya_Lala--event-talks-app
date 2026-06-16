@@ -105,11 +105,11 @@ ipython_config.py
 
 # venv
 #   Use the default name for virtual environments
-venv/
+# venv/
 ENV/
-env/
+# env/
 .env
-.venv
+# .venv
 
 # Spyder project settings
 .spyderproject
